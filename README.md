@@ -24,7 +24,7 @@ This repository contains the following resources:
 
 ## How to Use This Repository
 
-Each section of the tutorial is organized into separate folders, with code examples and exercises provided for hands-on learning. Start with the Introduction to R Shiny folder and work your way through the subsequent sections to build your skills and understanding of Shiny development.
+Each section of the tutorial is organized into separate folders inside of the Introduction to R Shiny folder, with code examples and exercises provided for hands-on learning. Start with the Introduction to R Shiny folder and work your way through each section to build your skills and understanding of R Shiny.
 
 ## Contributing
 
