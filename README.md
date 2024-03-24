@@ -14,13 +14,13 @@ To get started with this tutorial, make sure you have RStudio installed on your 
 
 This repository contains the following resources:
 
-1. **Introduction to R Shiny**: Learn the basics of R Shiny, including how to set up your first Shiny app and create interactive user interfaces.
+**Introduction to R Shiny**: Learn the basics of R Shiny, including how to set up your first Shiny app and create interactive user interfaces.
 
-2. **Building Interactive Dashboards**: Explore advanced features of R Shiny for building interactive dashboards with multiple input controls and reactive outputs.
+ **Building Interactive Dashboards**: Explore advanced features of R Shiny for building interactive dashboards with multiple input controls and reactive outputs.
 
-3. **Data Visualization with Shiny**: Learn how to incorporate data visualization libraries such as ggplot2 and Plotly into your Shiny apps to create dynamic and interactive plots.
+ **Data Visualization with Shiny**: Learn how to incorporate data visualization libraries such as ggplot2 and Plotly into your Shiny apps to create dynamic and interactive plots.
 
-4. **Deploying Shiny Apps**: Discover different methods for deploying your Shiny apps to the web, including hosting on shinyapps.io, deploying to a Shiny Server, and integrating with other web frameworks.
+ **Deploying Shiny Apps**: Discover different methods for deploying your Shiny apps to the web, including hosting on shinyapps.io, deploying to a Shiny Server, and integrating with other web frameworks.
 
 ## How to Use This Repository
 
