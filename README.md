@@ -8,7 +8,7 @@ Welcome to the R Shiny Tutorial repository! This tutorial is designed to help yo
 
 ## Getting Started
 
-To get started with this tutorial, make sure you have R and RStudio installed on your computer. You can download RStudio from the [RStudio website](https://www.rstudio.com/products/rstudio/download/).
+To get started with this tutorial, make sure you have RStudio installed on your computer. You can download RStudio from the [RStudio website](https://www.rstudio.com/products/rstudio/download/).
 
 ## Contents
 
