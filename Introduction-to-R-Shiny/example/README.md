@@ -1,1 +1,1 @@
-## These both should be reviewed after reviewing the slide presentation.
+## These R files should be reviewed after reviewing the slide presentation.
