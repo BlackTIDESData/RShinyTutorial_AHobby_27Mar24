@@ -26,6 +26,9 @@ This repository contains the following resources:
 
 Each section of the tutorial is organized into separate folders inside of the Introduction to R Shiny folder, with code examples and exercises provided for hands-on learning. Start with the Introduction to R Shiny folder and work your way through each section to build your skills and understanding of R Shiny.
 
+See the link below for the slides that go with this presentation.
+- [R Shiny Tutorial](https://docs.google.com/presentation/d/1z6KzHdDJzLsgJh6zNA5z9oEFYzO_1zHGoI1tq-3s3tY/edit?usp=sharing)
+
 ## Contributing
 
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
