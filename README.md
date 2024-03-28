@@ -38,5 +38,6 @@ If you find any issues or have suggestions for improvement, please feel free to 
 - [Official R Shiny Documentation](https://shiny.rstudio.com/)
 - [RStudio Community](https://community.rstudio.com/c/shiny)
 - [Shiny Developer Center](https://shiny.rstudio.com/develop.html)
+- [POSIT website for RStudio Desktop](https://posit.co/download/rstudio-desktop/)
 
 
